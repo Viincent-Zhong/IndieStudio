@@ -1,0 +1,16 @@
+BEGUIN
+BUTTONEXIT=assets/texture/button/button_exit.png
+BUTTONEXITHOVER=assets/texture/button/button_exit_hovered.png
+BUTTONBACK=assets/texture/button/button_back.png
+BUTTONBACKHOVER=assets/texture/button/button_back_hovered.png
+BUTTONPLUS=assets/texture/button/button_plus.png
+BUTTONPLUSHOVER=assets/texture/button/button_plus_hovered.png
+BUTTONMINUS=assets/texture/button/button_minus.png
+BUTTONMINUSHOVER=assets/texture/button/button_minus_hovered.png
+FONT=assets/fonts/setback.png
+BACKGROUND=assets/image/menu.png
+ICON=assets/image/icon_player.png
+MUSIC=assets/music/creeping_fear.mp3
+DOC=assets/image/tuto.png
+BTN_SOUND=assets/sound/buttonfx.wav
+END

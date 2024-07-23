@@ -1,0 +1,13 @@
+BEGUIN
+MUSIC=assets/music/result.mp3
+FONT=assets/fonts/setback.png
+FILE=.recap.dat
+BUTTONEXIT=assets/texture/button/button_exit.png
+BUTTONEXITHOVER=assets/texture/button/button_exit_hovered.png
+BUTTONGAME=assets/texture/button/button_back.png
+BUTTONGAMEHOVER=assets/texture/button/button_back_hovered.png
+MODEL=assets/model/player/player.iqm
+ANIM=assets/animation/player/player.iqm
+BACKGROUND=assets/image/menu.png
+BTN_SOUND=assets/sound/buttonfx.wav
+END

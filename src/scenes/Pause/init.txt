@@ -1,0 +1,15 @@
+BEGUIN
+BUTTONEXIT=assets/texture/button/button_exit.png
+BUTTONEXITHOVER=assets/texture/button/button_exit_hovered.png
+BUTTONRESUME=assets/texture/button/button_resume_game.png
+BUTTONRESUMEHOVER=assets/texture/button/button_resume_game_hovered.png
+BUTTONSAVE=assets/texture/button/button_save.png
+BUTTONSAVEHOVER=assets/texture/button/button_save_hovered.png
+BUTTONPARAMS=assets/texture/button/button_settings.png
+BUTTONPARAMSHOVER=assets/texture/button/button_settings_hovered.png
+BUTTONBACK=assets/texture/button/button_back.png
+BUTTONBACKHOVER=assets/texture/button/button_back_hovered.png
+MUSIC=assets/music/pause.mp3
+BACKGROUND=assets/image/menu.png
+BTN_SOUND=assets/sound/buttonfx.wav
+END
